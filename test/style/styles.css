@@ -1,0 +1,21 @@
+body{
+background-color: red;
+}
+
+h1{
+	font-family: 'Alfa Slab One', cursive;
+	background-color: #ccffff;
+}
+.para1{
+	font-family: 'Comforter Brush', cursive;
+}
+.para2{
+	font-family: 'Lato', sans-serif;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+  height: 350 px;
+}
